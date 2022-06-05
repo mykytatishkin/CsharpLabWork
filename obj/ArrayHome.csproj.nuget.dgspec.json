@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nikita\\source\\repos\\LabWork\\LabWork\\LabWork.csproj": {}
+    "C:\\Users\\Nikita\\source\\repos\\ArrayHome\\ArrayHome\\ArrayHome.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nikita\\source\\repos\\LabWork\\LabWork\\LabWork.csproj": {
+    "C:\\Users\\Nikita\\source\\repos\\ArrayHome\\ArrayHome\\ArrayHome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nikita\\source\\repos\\LabWork\\LabWork\\LabWork.csproj",
-        "projectName": "LabWork",
-        "projectPath": "C:\\Users\\Nikita\\source\\repos\\LabWork\\LabWork\\LabWork.csproj",
+        "projectUniqueName": "C:\\Users\\Nikita\\source\\repos\\ArrayHome\\ArrayHome\\ArrayHome.csproj",
+        "projectName": "ArrayHome",
+        "projectPath": "C:\\Users\\Nikita\\source\\repos\\ArrayHome\\ArrayHome\\ArrayHome.csproj",
         "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nikita\\source\\repos\\LabWork\\LabWork\\obj\\",
+        "outputPath": "C:\\Users\\Nikita\\source\\repos\\ArrayHome\\ArrayHome\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

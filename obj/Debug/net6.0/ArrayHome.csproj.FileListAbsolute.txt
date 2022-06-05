@@ -1,0 +1,15 @@
+C:\Users\Nikita\source\repos\ArrayHome\ArrayHome\bin\Debug\net6.0\ArrayHome.exe
+C:\Users\Nikita\source\repos\ArrayHome\ArrayHome\bin\Debug\net6.0\ArrayHome.deps.json
+C:\Users\Nikita\source\repos\ArrayHome\ArrayHome\bin\Debug\net6.0\ArrayHome.runtimeconfig.json
+C:\Users\Nikita\source\repos\ArrayHome\ArrayHome\bin\Debug\net6.0\ArrayHome.dll
+C:\Users\Nikita\source\repos\ArrayHome\ArrayHome\bin\Debug\net6.0\ArrayHome.pdb
+C:\Users\Nikita\source\repos\ArrayHome\ArrayHome\obj\Debug\net6.0\ArrayHome.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\ArrayHome\ArrayHome\obj\Debug\net6.0\ArrayHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\source\repos\ArrayHome\ArrayHome\obj\Debug\net6.0\ArrayHome.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\ArrayHome\ArrayHome\obj\Debug\net6.0\ArrayHome.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\ArrayHome\ArrayHome\obj\Debug\net6.0\ArrayHome.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\ArrayHome\ArrayHome\obj\Debug\net6.0\ArrayHome.dll
+C:\Users\Nikita\source\repos\ArrayHome\ArrayHome\obj\Debug\net6.0\refint\ArrayHome.dll
+C:\Users\Nikita\source\repos\ArrayHome\ArrayHome\obj\Debug\net6.0\ArrayHome.pdb
+C:\Users\Nikita\source\repos\ArrayHome\ArrayHome\obj\Debug\net6.0\ArrayHome.genruntimeconfig.cache
+C:\Users\Nikita\source\repos\ArrayHome\ArrayHome\obj\Debug\net6.0\ref\ArrayHome.dll
