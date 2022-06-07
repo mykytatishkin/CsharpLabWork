@@ -1,5 +1,5 @@
 ﻿System.Random random = new System.Random();
-Solution(2);
+Solution(6);
 
 void Solution(int tasks)
 {
@@ -159,6 +159,53 @@ void Solution(int tasks)
             break;
         case 3:
             Console.ForegroundColor = ConsoleColor.Yellow;
+            
+
+
+            Console.ResetColor();
+            break;
+        case 4:
+            Console.ForegroundColor = ConsoleColor.Cyan;
+
+            ArrayHome.Maxtrix maxtrix = new ArrayHome.Maxtrix();
+            maxtrix.Print();
+            maxtrix.Multyply_Matrix(2);
+            Console.WriteLine();
+            maxtrix.Print();
+
+            Console.WriteLine();
+            Console.WriteLine(maxtrix.Sum_Matrix());
+
+            Console.WriteLine();
+            Console.WriteLine(maxtrix.MultOf_Matrix());
+
+            Console.ResetColor();
+            break;
+        case 5:
+            Console.ForegroundColor = ConsoleColor.Red;
+
+
+
+            Console.ResetColor();
+            break;
+        case 6:
+            Console.ForegroundColor = ConsoleColor.DarkMagenta;
+
+            string lineSentence = "today is a good day for walking.i will try to walk near the sea" ;
+            for(int i = 0; i < lineSentence.Length; i++)
+            {
+                if(lineSentence[i] == '.')
+                {
+                    lineSentence[i + 1] = lineSentence.ToUpper();
+                }
+            }
+
+            Console.ResetColor();
+            break;
+        case 7:
+            Console.ForegroundColor = ConsoleColor.Magenta;
+
+
 
             Console.ResetColor();
             break;
