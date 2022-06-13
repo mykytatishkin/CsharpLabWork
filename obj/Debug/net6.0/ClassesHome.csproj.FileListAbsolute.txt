@@ -1,0 +1,15 @@
+C:\Users\Nikita\source\repos\ClassesHome\ClassesHome\bin\Debug\net6.0\ClassesHome.exe
+C:\Users\Nikita\source\repos\ClassesHome\ClassesHome\bin\Debug\net6.0\ClassesHome.deps.json
+C:\Users\Nikita\source\repos\ClassesHome\ClassesHome\bin\Debug\net6.0\ClassesHome.runtimeconfig.json
+C:\Users\Nikita\source\repos\ClassesHome\ClassesHome\bin\Debug\net6.0\ClassesHome.dll
+C:\Users\Nikita\source\repos\ClassesHome\ClassesHome\bin\Debug\net6.0\ClassesHome.pdb
+C:\Users\Nikita\source\repos\ClassesHome\ClassesHome\obj\Debug\net6.0\ClassesHome.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\ClassesHome\ClassesHome\obj\Debug\net6.0\ClassesHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\source\repos\ClassesHome\ClassesHome\obj\Debug\net6.0\ClassesHome.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\ClassesHome\ClassesHome\obj\Debug\net6.0\ClassesHome.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\ClassesHome\ClassesHome\obj\Debug\net6.0\ClassesHome.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\ClassesHome\ClassesHome\obj\Debug\net6.0\ClassesHome.dll
+C:\Users\Nikita\source\repos\ClassesHome\ClassesHome\obj\Debug\net6.0\refint\ClassesHome.dll
+C:\Users\Nikita\source\repos\ClassesHome\ClassesHome\obj\Debug\net6.0\ClassesHome.pdb
+C:\Users\Nikita\source\repos\ClassesHome\ClassesHome\obj\Debug\net6.0\ClassesHome.genruntimeconfig.cache
+C:\Users\Nikita\source\repos\ClassesHome\ClassesHome\obj\Debug\net6.0\ref\ClassesHome.dll
