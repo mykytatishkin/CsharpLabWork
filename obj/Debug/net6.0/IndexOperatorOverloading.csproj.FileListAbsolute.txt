@@ -1,0 +1,15 @@
+C:\Users\Nikita\source\repos\IndexOperatorOverloading\IndexOperatorOverloading\bin\Debug\net6.0\IndexOperatorOverloading.exe
+C:\Users\Nikita\source\repos\IndexOperatorOverloading\IndexOperatorOverloading\bin\Debug\net6.0\IndexOperatorOverloading.deps.json
+C:\Users\Nikita\source\repos\IndexOperatorOverloading\IndexOperatorOverloading\bin\Debug\net6.0\IndexOperatorOverloading.runtimeconfig.json
+C:\Users\Nikita\source\repos\IndexOperatorOverloading\IndexOperatorOverloading\bin\Debug\net6.0\IndexOperatorOverloading.dll
+C:\Users\Nikita\source\repos\IndexOperatorOverloading\IndexOperatorOverloading\bin\Debug\net6.0\IndexOperatorOverloading.pdb
+C:\Users\Nikita\source\repos\IndexOperatorOverloading\IndexOperatorOverloading\obj\Debug\net6.0\IndexOperatorOverloading.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\IndexOperatorOverloading\IndexOperatorOverloading\obj\Debug\net6.0\IndexOperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\source\repos\IndexOperatorOverloading\IndexOperatorOverloading\obj\Debug\net6.0\IndexOperatorOverloading.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\IndexOperatorOverloading\IndexOperatorOverloading\obj\Debug\net6.0\IndexOperatorOverloading.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\IndexOperatorOverloading\IndexOperatorOverloading\obj\Debug\net6.0\IndexOperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\IndexOperatorOverloading\IndexOperatorOverloading\obj\Debug\net6.0\IndexOperatorOverloading.dll
+C:\Users\Nikita\source\repos\IndexOperatorOverloading\IndexOperatorOverloading\obj\Debug\net6.0\refint\IndexOperatorOverloading.dll
+C:\Users\Nikita\source\repos\IndexOperatorOverloading\IndexOperatorOverloading\obj\Debug\net6.0\IndexOperatorOverloading.pdb
+C:\Users\Nikita\source\repos\IndexOperatorOverloading\IndexOperatorOverloading\obj\Debug\net6.0\IndexOperatorOverloading.genruntimeconfig.cache
+C:\Users\Nikita\source\repos\IndexOperatorOverloading\IndexOperatorOverloading\obj\Debug\net6.0\ref\IndexOperatorOverloading.dll
