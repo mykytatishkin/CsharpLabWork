@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikita\\source\\repos\\ClassesHome\\ClassesHome\\ClassesHome.csproj",
-      "projectName": "ClassesHome",
-      "projectPath": "C:\\Users\\Nikita\\source\\repos\\ClassesHome\\ClassesHome\\ClassesHome.csproj",
+      "projectUniqueName": "C:\\Users\\Nikita\\source\\repos\\LevelStatement\\LevelStatement\\LevelStatement.csproj",
+      "projectName": "LevelStatement",
+      "projectPath": "C:\\Users\\Nikita\\source\\repos\\LevelStatement\\LevelStatement\\LevelStatement.csproj",
       "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikita\\source\\repos\\ClassesHome\\ClassesHome\\obj\\",
+      "outputPath": "C:\\Users\\Nikita\\source\\repos\\LevelStatement\\LevelStatement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

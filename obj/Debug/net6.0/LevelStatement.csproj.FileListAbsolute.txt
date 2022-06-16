@@ -1,0 +1,15 @@
+C:\Users\Nikita\source\repos\LevelStatement\LevelStatement\bin\Debug\net6.0\LevelStatement.exe
+C:\Users\Nikita\source\repos\LevelStatement\LevelStatement\bin\Debug\net6.0\LevelStatement.deps.json
+C:\Users\Nikita\source\repos\LevelStatement\LevelStatement\bin\Debug\net6.0\LevelStatement.runtimeconfig.json
+C:\Users\Nikita\source\repos\LevelStatement\LevelStatement\bin\Debug\net6.0\LevelStatement.dll
+C:\Users\Nikita\source\repos\LevelStatement\LevelStatement\bin\Debug\net6.0\LevelStatement.pdb
+C:\Users\Nikita\source\repos\LevelStatement\LevelStatement\obj\Debug\net6.0\LevelStatement.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\LevelStatement\LevelStatement\obj\Debug\net6.0\LevelStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\source\repos\LevelStatement\LevelStatement\obj\Debug\net6.0\LevelStatement.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\LevelStatement\LevelStatement\obj\Debug\net6.0\LevelStatement.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\LevelStatement\LevelStatement\obj\Debug\net6.0\LevelStatement.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\LevelStatement\LevelStatement\obj\Debug\net6.0\LevelStatement.dll
+C:\Users\Nikita\source\repos\LevelStatement\LevelStatement\obj\Debug\net6.0\refint\LevelStatement.dll
+C:\Users\Nikita\source\repos\LevelStatement\LevelStatement\obj\Debug\net6.0\LevelStatement.pdb
+C:\Users\Nikita\source\repos\LevelStatement\LevelStatement\obj\Debug\net6.0\LevelStatement.genruntimeconfig.cache
+C:\Users\Nikita\source\repos\LevelStatement\LevelStatement\obj\Debug\net6.0\ref\LevelStatement.dll

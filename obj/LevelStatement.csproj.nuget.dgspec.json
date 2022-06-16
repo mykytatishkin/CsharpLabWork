@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\CsharpLabWork\\LabWork\\LabWork.csproj": {}
+    "C:\\Users\\Nikita\\source\\repos\\LevelStatement\\LevelStatement\\LevelStatement.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\CsharpLabWork\\LabWork\\LabWork.csproj": {
+    "C:\\Users\\Nikita\\source\\repos\\LevelStatement\\LevelStatement\\LevelStatement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\CsharpLabWork\\LabWork\\LabWork.csproj",
-        "projectName": "LabWork",
-        "projectPath": "D:\\GitHub\\CsharpLabWork\\LabWork\\LabWork.csproj",
+        "projectUniqueName": "C:\\Users\\Nikita\\source\\repos\\LevelStatement\\LevelStatement\\LevelStatement.csproj",
+        "projectName": "LevelStatement",
+        "projectPath": "C:\\Users\\Nikita\\source\\repos\\LevelStatement\\LevelStatement\\LevelStatement.csproj",
         "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\CsharpLabWork\\LabWork\\obj\\",
+        "outputPath": "C:\\Users\\Nikita\\source\\repos\\LevelStatement\\LevelStatement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
