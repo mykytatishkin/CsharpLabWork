@@ -1,0 +1,15 @@
+C:\Users\Nikita\source\repos\OperatorOverloadingLabo\OperatorOverloadingLabo\bin\Debug\net6.0\OperatorOverloadingLabo.exe
+C:\Users\Nikita\source\repos\OperatorOverloadingLabo\OperatorOverloadingLabo\bin\Debug\net6.0\OperatorOverloadingLabo.deps.json
+C:\Users\Nikita\source\repos\OperatorOverloadingLabo\OperatorOverloadingLabo\bin\Debug\net6.0\OperatorOverloadingLabo.runtimeconfig.json
+C:\Users\Nikita\source\repos\OperatorOverloadingLabo\OperatorOverloadingLabo\bin\Debug\net6.0\OperatorOverloadingLabo.dll
+C:\Users\Nikita\source\repos\OperatorOverloadingLabo\OperatorOverloadingLabo\bin\Debug\net6.0\OperatorOverloadingLabo.pdb
+C:\Users\Nikita\source\repos\OperatorOverloadingLabo\OperatorOverloadingLabo\obj\Debug\net6.0\OperatorOverloadingLabo.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\OperatorOverloadingLabo\OperatorOverloadingLabo\obj\Debug\net6.0\OperatorOverloadingLabo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\source\repos\OperatorOverloadingLabo\OperatorOverloadingLabo\obj\Debug\net6.0\OperatorOverloadingLabo.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\OperatorOverloadingLabo\OperatorOverloadingLabo\obj\Debug\net6.0\OperatorOverloadingLabo.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\OperatorOverloadingLabo\OperatorOverloadingLabo\obj\Debug\net6.0\OperatorOverloadingLabo.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\OperatorOverloadingLabo\OperatorOverloadingLabo\obj\Debug\net6.0\OperatorOverloadingLabo.dll
+C:\Users\Nikita\source\repos\OperatorOverloadingLabo\OperatorOverloadingLabo\obj\Debug\net6.0\refint\OperatorOverloadingLabo.dll
+C:\Users\Nikita\source\repos\OperatorOverloadingLabo\OperatorOverloadingLabo\obj\Debug\net6.0\OperatorOverloadingLabo.pdb
+C:\Users\Nikita\source\repos\OperatorOverloadingLabo\OperatorOverloadingLabo\obj\Debug\net6.0\OperatorOverloadingLabo.genruntimeconfig.cache
+C:\Users\Nikita\source\repos\OperatorOverloadingLabo\OperatorOverloadingLabo\obj\Debug\net6.0\ref\OperatorOverloadingLabo.dll
