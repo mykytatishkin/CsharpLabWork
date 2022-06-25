@@ -1,21 +1,28 @@
-﻿Solution(1);
+﻿Console.ForegroundColor = ConsoleColor.Magenta;
+Interfaces.Classes.TeamLeader teamLead = new Interfaces.Classes.TeamLeader();
+Interfaces.Classes.Team team = new Interfaces.Classes.Team();
 
-void Solution(int task)
-{
-    switch (task)
-    {
-        case 1:
-            break;
-        case 2:
-            break;
-        case 3:
-            break;
-        case 4:
-            break;
-        case 5:
-            break;
-        case 6:
-            break;
+teamLead.Work();
+team.Work();
 
-    }
-}
+Interfaces.Classes.TheHouse.House house = new Interfaces.Classes.TheHouse.House();
+Interfaces.Classes.TheHouse.Basement basement = new Interfaces.Classes.TheHouse.Basement();
+Interfaces.Classes.TheHouse.Walls walls = new Interfaces.Classes.TheHouse.Walls();
+Interfaces.Classes.TheHouse.Window window = new Interfaces.Classes.TheHouse.Window();
+Interfaces.Classes.TheHouse.Roof roof = new Interfaces.Classes.TheHouse.Roof();
+
+
+house.intallingPart();
+basement.intallingPart();
+walls.intallingPart();
+window.intallingPart();
+roof.intallingPart();
+
+house.bePart();
+basement.bePart();
+walls.bePart();
+window.bePart();
+roof.bePart();
+
+team.Finish();
+teamLead.Finish();

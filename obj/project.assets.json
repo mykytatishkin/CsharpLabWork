@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikita\\source\\repos\\ClassesHome\\ClassesHome\\ClassesHome.csproj",
-      "projectName": "ClassesHome",
-      "projectPath": "C:\\Users\\Nikita\\source\\repos\\ClassesHome\\ClassesHome\\ClassesHome.csproj",
+      "projectUniqueName": "C:\\Users\\Nikita\\source\\repos\\Interfaces\\Interfaces\\Interfaces.csproj",
+      "projectName": "Interfaces",
+      "projectPath": "C:\\Users\\Nikita\\source\\repos\\Interfaces\\Interfaces\\Interfaces.csproj",
       "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikita\\source\\repos\\ClassesHome\\ClassesHome\\obj\\",
+      "outputPath": "C:\\Users\\Nikita\\source\\repos\\Interfaces\\Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
