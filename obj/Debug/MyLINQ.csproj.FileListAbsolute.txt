@@ -1,0 +1,8 @@
+C:\Users\Nikita\source\repos\MyLINQ\MyLINQ\bin\Debug\MyLINQ.exe.config
+C:\Users\Nikita\source\repos\MyLINQ\MyLINQ\bin\Debug\MyLINQ.exe
+C:\Users\Nikita\source\repos\MyLINQ\MyLINQ\bin\Debug\MyLINQ.pdb
+C:\Users\Nikita\source\repos\MyLINQ\MyLINQ\obj\Debug\MyLINQ.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\MyLINQ\MyLINQ\obj\Debug\MyLINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikita\source\repos\MyLINQ\MyLINQ\obj\Debug\MyLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\MyLINQ\MyLINQ\obj\Debug\MyLINQ.exe
+C:\Users\Nikita\source\repos\MyLINQ\MyLINQ\obj\Debug\MyLINQ.pdb
