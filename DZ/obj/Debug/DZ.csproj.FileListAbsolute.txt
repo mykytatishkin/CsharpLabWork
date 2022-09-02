@@ -1,0 +1,7 @@
+/Users/mykytatishkin/Documents/GitHub/CsharpLabWork/DZ/bin/Debug/DZ.exe.config
+/Users/mykytatishkin/Documents/GitHub/CsharpLabWork/DZ/bin/Debug/DZ.exe
+/Users/mykytatishkin/Documents/GitHub/CsharpLabWork/DZ/bin/Debug/DZ.pdb
+/Users/mykytatishkin/Documents/GitHub/CsharpLabWork/DZ/obj/Debug/DZ.csproj.AssemblyReference.cache
+/Users/mykytatishkin/Documents/GitHub/CsharpLabWork/DZ/obj/Debug/DZ.csproj.CoreCompileInputs.cache
+/Users/mykytatishkin/Documents/GitHub/CsharpLabWork/DZ/obj/Debug/DZ.exe
+/Users/mykytatishkin/Documents/GitHub/CsharpLabWork/DZ/obj/Debug/DZ.pdb
