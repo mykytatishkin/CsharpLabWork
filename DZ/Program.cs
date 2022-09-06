@@ -17,6 +17,37 @@ namespace DZ
              */
 
             ArrayList array1 = new ArrayList();
+
+            int[] ranNum = new int[5];
+
+            for(int i = 0; i < ranNum.Length; i++)
+            {
+                Random rnd = new Random();
+                int val = rnd.Next(1, 100);
+            }
+
+            array1.AddRange(ranNum);
+            
+            array1.Add(Convert.ToString(1.43));
+            array1.Add(Convert.ToString(3.14));
+
+            array1.Add("Hello");
+            array1.Add("Collections");
+            array1.Add("And");
+            array1.Add("Gerecics!");
+
+            PrintList(array1);
+
+            array1.Sort();
+
+            PrintList(array1);
+        }
+        public static void PrintList(IEnumerable list)
+        {
+            foreach(var item in list)
+                Console.Write(item + "\t");
+
+            Console.WriteLine();
         }
     }
 }
