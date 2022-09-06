@@ -38,7 +38,7 @@ namespace DZ
 
             PrintList(array1);
 
-            array1.Sort();
+            array1.Sort(new SortingComparer());
 
             PrintList(array1);
         }
@@ -48,6 +48,20 @@ namespace DZ
                 Console.Write(item + "\t");
 
             Console.WriteLine();
+        }
+
+        public class SortingComparer : IComparer
+        {
+            readonly CaseInsensitiveComparer comparer = new CaseInsensitiveComparer();
+
+            public int Compare(object x, object y)
+            {
+                int result = comparer.Compare(y, x);
+                if (x is int && y is int)
+                    return (int)x > (int)y ? 1 : (int)x < (int)y ? -1 : 0;
+
+                return result;
+            }
         }
     }
 }
