@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mykytatishkin/Projects/DZ_1209/DZ_1209/DZ_1209.csproj": {}
+    "/Users/mykytatishkin/Documents/GitHub/CsharpLabWork/DZ_1209/DZ_1209.csproj": {}
   },
   "projects": {
-    "/Users/mykytatishkin/Projects/DZ_1209/DZ_1209/DZ_1209.csproj": {
+    "/Users/mykytatishkin/Documents/GitHub/CsharpLabWork/DZ_1209/DZ_1209.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mykytatishkin/Projects/DZ_1209/DZ_1209/DZ_1209.csproj",
+        "projectUniqueName": "/Users/mykytatishkin/Documents/GitHub/CsharpLabWork/DZ_1209/DZ_1209.csproj",
         "projectName": "DZ_1209",
-        "projectPath": "/Users/mykytatishkin/Projects/DZ_1209/DZ_1209/DZ_1209.csproj",
+        "projectPath": "/Users/mykytatishkin/Documents/GitHub/CsharpLabWork/DZ_1209/DZ_1209.csproj",
         "packagesPath": "/Users/mykytatishkin/.nuget/packages/",
-        "outputPath": "/Users/mykytatishkin/Projects/DZ_1209/DZ_1209/obj/",
+        "outputPath": "/Users/mykytatishkin/Documents/GitHub/CsharpLabWork/DZ_1209/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mykytatishkin/.nuget/NuGet/NuGet.Config"
