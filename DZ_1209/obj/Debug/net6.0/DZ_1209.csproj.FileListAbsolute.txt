@@ -1,0 +1,15 @@
+/Users/mykytatishkin/Projects/DZ_1209/DZ_1209/obj/Debug/net6.0/DZ_1209.csproj.AssemblyReference.cache
+/Users/mykytatishkin/Projects/DZ_1209/DZ_1209/obj/Debug/net6.0/DZ_1209.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mykytatishkin/Projects/DZ_1209/DZ_1209/obj/Debug/net6.0/DZ_1209.AssemblyInfoInputs.cache
+/Users/mykytatishkin/Projects/DZ_1209/DZ_1209/obj/Debug/net6.0/DZ_1209.AssemblyInfo.cs
+/Users/mykytatishkin/Projects/DZ_1209/DZ_1209/obj/Debug/net6.0/DZ_1209.csproj.CoreCompileInputs.cache
+/Users/mykytatishkin/Projects/DZ_1209/DZ_1209/bin/Debug/net6.0/DZ_1209
+/Users/mykytatishkin/Projects/DZ_1209/DZ_1209/bin/Debug/net6.0/DZ_1209.deps.json
+/Users/mykytatishkin/Projects/DZ_1209/DZ_1209/bin/Debug/net6.0/DZ_1209.runtimeconfig.json
+/Users/mykytatishkin/Projects/DZ_1209/DZ_1209/bin/Debug/net6.0/DZ_1209.dll
+/Users/mykytatishkin/Projects/DZ_1209/DZ_1209/bin/Debug/net6.0/DZ_1209.pdb
+/Users/mykytatishkin/Projects/DZ_1209/DZ_1209/obj/Debug/net6.0/DZ_1209.dll
+/Users/mykytatishkin/Projects/DZ_1209/DZ_1209/obj/Debug/net6.0/refint/DZ_1209.dll
+/Users/mykytatishkin/Projects/DZ_1209/DZ_1209/obj/Debug/net6.0/DZ_1209.pdb
+/Users/mykytatishkin/Projects/DZ_1209/DZ_1209/obj/Debug/net6.0/DZ_1209.genruntimeconfig.cache
+/Users/mykytatishkin/Projects/DZ_1209/DZ_1209/obj/Debug/net6.0/ref/DZ_1209.dll
