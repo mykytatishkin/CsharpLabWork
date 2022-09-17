@@ -1,0 +1,7 @@
+/Users/mykytatishkin/Downloads/DZ/obj/Debug/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/mykytatishkin/Downloads/DZ/obj/Debug/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/mykytatishkin/Downloads/DZ/bin/Debug/ConsoleApp1.exe.config
+/Users/mykytatishkin/Downloads/DZ/bin/Debug/ConsoleApp1.exe
+/Users/mykytatishkin/Downloads/DZ/bin/Debug/ConsoleApp1.pdb
+/Users/mykytatishkin/Downloads/DZ/obj/Debug/ConsoleApp1.exe
+/Users/mykytatishkin/Downloads/DZ/obj/Debug/ConsoleApp1.pdb
