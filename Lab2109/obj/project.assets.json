@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mykytatishkin/Projects/Lab2109/Lab2109/Lab2109.csproj",
+      "projectUniqueName": "/Users/mykytatishkin/Documents/GitHub/CsharpLabWork/Lab2109/Lab2109.csproj",
       "projectName": "Lab2109",
-      "projectPath": "/Users/mykytatishkin/Projects/Lab2109/Lab2109/Lab2109.csproj",
+      "projectPath": "/Users/mykytatishkin/Documents/GitHub/CsharpLabWork/Lab2109/Lab2109.csproj",
       "packagesPath": "/Users/mykytatishkin/.nuget/packages/",
-      "outputPath": "/Users/mykytatishkin/Projects/Lab2109/Lab2109/obj/",
+      "outputPath": "/Users/mykytatishkin/Documents/GitHub/CsharpLabWork/Lab2109/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mykytatishkin/.nuget/NuGet/NuGet.Config"

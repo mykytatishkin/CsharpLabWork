@@ -3,15 +3,15 @@ namespace Lab2109
 {
     public class Moderator
     {
-        public string pathText = @"/Users/mykytatishkin/Projects/Lab2109/Output/WordModertor.txt";
-        public string pathModer = @"/Users/mykytatishkin/Projects/Lab2109/Output/wordForModeration.txt";
+        public string pathText = @"/Users/mykytatishkin/Documents/GitHub/CsharpLabWork/Output/WordModerator.txt";
+        public string pathModer = @"/Users/mykytatishkin/Documents/GitHub/CsharpLabWork/Output/wordForModeration.txt";
 
         public void FileWordReplaceing()
         {
 
             if (File.Exists(pathText))
             {
-                File.WriteAllText(pathText, File.ReadAllText(pathText).Replace(wordToReplace, replacingWord));
+                //File.WriteAllText(pathText, File.ReadAllText(pathText).Replace(wordToReplace, replacingWord));
             }
             else
             {

@@ -13,7 +13,7 @@ namespace Lab2109
             List<int> list = new List<int>();
             ToFilesAdd toFiles = new ToFilesAdd();
 
-            for(int i = 0; i < 100; i++)
+            for(int i = 0; i < 100000; i++)
             {
                 int rInt = r.Next(0, 100);
                 list.Add(rInt);
@@ -36,6 +36,8 @@ namespace Lab2109
             ConsoleReseting();
             Console.BackgroundColor = ConsoleColor.DarkMagenta;
 
+            Southand s = new Southand();
+            s.numsToFiles(list);
 
         }
 

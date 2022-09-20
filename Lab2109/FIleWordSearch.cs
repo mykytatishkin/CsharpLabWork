@@ -7,7 +7,7 @@ namespace Lab2109
 {
     public class FIleWordSearch
     {
-        public string path3 = @"/Users/mykytatishkin/Projects/Lab2109/Output/WordReplace.txt";
+        public string path3 = @"/Users/mykytatishkin/Documents/GitHub/CsharpLabWork/Output/WordReplace.txt";
 
         public void FileWordReplaceing(string replacingWord, string wordToReplace)
         {

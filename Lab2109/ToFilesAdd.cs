@@ -7,8 +7,8 @@ namespace Lab2109
 {
     public class ToFilesAdd
     {
-        string path = @"/Users/mykytatishkin/Projects/Lab2109/Output/prime.txt";
-        string path2= @"/Users/mykytatishkin/Projects/Lab2109/Output/fibonachi.txt";
+        string path = @"/Users/mykytatishkin/Documents/GitHub/CsharpLabWork/Output/prime.txt";
+        string path2= @"/Users/mykytatishkin/Documents/GitHub/CsharpLabWork/Output/fibonachi.txt";
 
         public void primeToFile(List<int> array)
         {
