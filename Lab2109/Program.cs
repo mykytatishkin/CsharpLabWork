@@ -44,7 +44,7 @@ namespace Lab2109
         public static void ConsoleReseting()
         {
             // 10 sec -> 10000
-            Thread.Sleep(100);
+            Thread.Sleep(10000);
             Console.Clear();
             Console.ResetColor();
         }

@@ -1,16 +1,13 @@
 ﻿<Properties StartupConfiguration="{133C28D5-546B-4F01-B460-12644E292E9A}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Lab2109 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lab2109/southand.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab2109/Southand.cs">
     <Files>
       <File FileName="Lab2109/FIleWordSearch.cs" Line="10" Column="107" />
       <File FileName="Lab2109/Moderator.cs" Line="7" Column="113" />
-      <File FileName="Lab2109/FIleWordSearch.cs" Line="10" Column="107" />
-      <File FileName="Lab2109/ToFilesAdd.cs" Line="11" Column="93" />
       <File FileName="Lab2109/ToFilesAdd.cs" Line="11" Column="93" />
       <File FileName="Lab2109/southand.cs" Line="55" Column="46" />
       <File FileName="Lab2109/Program.cs" Line="40" Column="33" NotebookId="1" />
-      <File FileName="Lab2109/ToFilesAdd.cs" Line="11" Column="93" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -25,9 +22,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Lab2109 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
