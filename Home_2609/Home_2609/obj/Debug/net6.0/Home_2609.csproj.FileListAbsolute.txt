@@ -1,0 +1,15 @@
+/Users/mykytatishkin/Projects/Home_2609/Home_2609/bin/Debug/net6.0/Home_2609
+/Users/mykytatishkin/Projects/Home_2609/Home_2609/bin/Debug/net6.0/Home_2609.deps.json
+/Users/mykytatishkin/Projects/Home_2609/Home_2609/bin/Debug/net6.0/Home_2609.runtimeconfig.json
+/Users/mykytatishkin/Projects/Home_2609/Home_2609/bin/Debug/net6.0/Home_2609.dll
+/Users/mykytatishkin/Projects/Home_2609/Home_2609/bin/Debug/net6.0/Home_2609.pdb
+/Users/mykytatishkin/Projects/Home_2609/Home_2609/obj/Debug/net6.0/Home_2609.csproj.AssemblyReference.cache
+/Users/mykytatishkin/Projects/Home_2609/Home_2609/obj/Debug/net6.0/Home_2609.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mykytatishkin/Projects/Home_2609/Home_2609/obj/Debug/net6.0/Home_2609.AssemblyInfoInputs.cache
+/Users/mykytatishkin/Projects/Home_2609/Home_2609/obj/Debug/net6.0/Home_2609.AssemblyInfo.cs
+/Users/mykytatishkin/Projects/Home_2609/Home_2609/obj/Debug/net6.0/Home_2609.csproj.CoreCompileInputs.cache
+/Users/mykytatishkin/Projects/Home_2609/Home_2609/obj/Debug/net6.0/Home_2609.dll
+/Users/mykytatishkin/Projects/Home_2609/Home_2609/obj/Debug/net6.0/refint/Home_2609.dll
+/Users/mykytatishkin/Projects/Home_2609/Home_2609/obj/Debug/net6.0/Home_2609.pdb
+/Users/mykytatishkin/Projects/Home_2609/Home_2609/obj/Debug/net6.0/Home_2609.genruntimeconfig.cache
+/Users/mykytatishkin/Projects/Home_2609/Home_2609/obj/Debug/net6.0/ref/Home_2609.dll
