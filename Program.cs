@@ -11,11 +11,14 @@ namespace ConsoleAttribute
     {
         static void Main(string[] args)
         {
-            /*ДЗ: Доработать обработку списка Emploee и выполнить метод IncreaseWages для John и Jack, 
-             * на значение указанные в атрибутах*/
+            /*
+             * ДЗ: Доработать обработку списка Emploee и выполнить метод IncreaseWages для John и Jack, 
+             * на значение указанные в атрибутах
+             */
 
             List<Emploee> emploes = new List<Emploee>();
             emploes.Add(new Emploee() { Id = 1, Name = "John" });
+            emploes.Add(new Emploee() { Id = 2, Name = "Jack" });
 
             foreach (MemberInfo member in typeof(Emploee).GetMember("IncreaseWages"))
             {
@@ -24,6 +27,10 @@ namespace ConsoleAttribute
                     if (emploes[0].Name == "John") 
                     {
                         emploes[0].IncreaseWages(100);
+                    }
+                    if (emploes[1].Name == "Jack")
+                    {
+                        emploes[1].IncreaseWages(200);
                     }
                     Console.WriteLine(attr + "");
                 }
