@@ -1,0 +1,8 @@
+D:\Step\5 C#\Lesson 7\ConsoleSerialized\ConsoleSerialized\bin\Debug\ConsoleSerialized.exe.config
+D:\Step\5 C#\Lesson 7\ConsoleSerialized\ConsoleSerialized\bin\Debug\ConsoleSerialized.exe
+D:\Step\5 C#\Lesson 7\ConsoleSerialized\ConsoleSerialized\bin\Debug\ConsoleSerialized.pdb
+D:\Step\5 C#\Lesson 7\ConsoleSerialized\ConsoleSerialized\obj\Debug\ConsoleSerialized.csproj.AssemblyReference.cache
+D:\Step\5 C#\Lesson 7\ConsoleSerialized\ConsoleSerialized\obj\Debug\ConsoleSerialized.csproj.SuggestedBindingRedirects.cache
+D:\Step\5 C#\Lesson 7\ConsoleSerialized\ConsoleSerialized\obj\Debug\ConsoleSerialized.csproj.CoreCompileInputs.cache
+D:\Step\5 C#\Lesson 7\ConsoleSerialized\ConsoleSerialized\obj\Debug\ConsoleSerialized.exe
+D:\Step\5 C#\Lesson 7\ConsoleSerialized\ConsoleSerialized\obj\Debug\ConsoleSerialized.pdb
