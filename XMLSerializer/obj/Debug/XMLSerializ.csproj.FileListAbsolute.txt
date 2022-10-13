@@ -1,0 +1,8 @@
+C:\Users\Mykyta\source\repos\XMLSerializer\XMLSerializer\bin\Debug\XMLSerializer.exe.config
+C:\Users\Mykyta\source\repos\XMLSerializer\XMLSerializer\bin\Debug\XMLSerializer.exe
+C:\Users\Mykyta\source\repos\XMLSerializer\XMLSerializer\bin\Debug\XMLSerializer.pdb
+C:\Users\Mykyta\source\repos\XMLSerializer\XMLSerializer\obj\Debug\XMLSerializ.csproj.AssemblyReference.cache
+C:\Users\Mykyta\source\repos\XMLSerializer\XMLSerializer\obj\Debug\XMLSerializ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mykyta\source\repos\XMLSerializer\XMLSerializer\obj\Debug\XMLSerializ.csproj.CoreCompileInputs.cache
+C:\Users\Mykyta\source\repos\XMLSerializer\XMLSerializer\obj\Debug\XMLSerializer.exe
+C:\Users\Mykyta\source\repos\XMLSerializer\XMLSerializer\obj\Debug\XMLSerializer.pdb
