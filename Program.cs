@@ -44,8 +44,8 @@ namespace Exam
             - смартфон
             - планшет
 
-            Базовый класс-список склада товаров для компьтеров (ProductComputerStore)
-            - Остаток товара (int)
+            Базовый класс-список склада товаров для компьтеров (ProductStore)
+          
 
             [Customer]
             Базовый класс клиент (Customer)
@@ -68,6 +68,9 @@ namespace Exam
             - Сумма заказа: OrderSum (decimal)
             - Дата создания: Create (datetime)
 
+            [CustomerOrder]
+            Базовый класс корзины клиента
+    
             [Shop]
             Базовый класс магазин (Shop)
             - ИД: Id (int)
@@ -76,20 +79,21 @@ namespace Exam
 
             Конкретный класс магазин-F1 (ShopF1)
             - Список товаров (ProductStore) 
-            - Список заказов (Orders)
+            - Список заказов (CustomerOrder)
+            - Список клиентов (CustomerManager)
 
             Задачи
-            1. Реализуйте все интерфейсы в классах CustomerManager, ProductComputerStore, ProductGadgetStore
+            1. Реализуйте все интерфейсы в классах ProductStore, CustomerManager, CustomerOrder
             2. При добавлении нового товара в заказ, проверять достаточный баланс у клиента, в случае недостатка - выдавать исключение (BalanceLowException)
             3. При новом заказе и остатке продукта (меньше 3 шт.), выдавать уведомление об окончании товара
             */
 
-            
+
             var s = new ShopF1();
             
             s.ProductLow += Products_ProductLow;
-            s.AddProduct(new ProductComputer() { Id = 1, Name = "F1", DDR = "16 GB", CPU = "Intel CORE i5", Motherboard = "Asus", SSD = "Kingstone" , Create = DateTime.Now, Change = DateTime.Now });
-            s.AddProduct(new ProductGadget() { Id = 2, Name = "Samsung", CPU = "Samsung CPU", DDR = "4 GB", Weigth = 100, Create = DateTime.Now, Change = DateTime.Now });
+            s.AddProduct(new ProductComputer() { Id = 1, Category = "Computer", Name = "F1", DDR = "16 GB", CPU = "Intel CORE i5", Motherboard = "Asus", SSD = "Kingstone", Create = DateTime.Now, Change = DateTime.Now }); ;
+            s.AddProduct(new ProductGadget() { Id = 2, Category = "Gadget", Name = "Samsung", CPU = "Axinos", DDR = "4 GB", Weigth = 100, Create = DateTime.Now, Change = DateTime.Now });
 
             s.EditProduct(2, Name:"Samsung Galaxy", Weigth:150);
 

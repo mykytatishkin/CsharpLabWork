@@ -1,21 +1,16 @@
-﻿using System.Collections.Generic;
+﻿using Exam.Shop.Interface;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace Exam.Shop.ProductBase
 {
     public delegate void ProductStoreLowEventHandler(string Name);
-    public class ProductStore 
+    public class ProductStore : List<Product>, IAddProduct<Product>
     {
-        public List<Product> ProductsItems;
+        //public List<Product> ProductsItems;
         //public List<Order> items;
 
-
         public event ProductStoreLowEventHandler ProductStoreLow = null;
-
-        public ProductStore()
-        {
-            ProductsItems = new List<Product>();
-        }
 
         public void ProductStoreLowEvent(string Name)
         {
@@ -25,25 +20,21 @@ namespace Exam.Shop.ProductBase
             }
         }
 
-
         public void AddProduct(Product product) 
         {
-            ProductsItems.Add(product);
+            this.Add(product);
         }
 
-
-        public void AddOrder(Product product/*, Cusomer cusomer*/)
+        public bool AvailableCategory(string catagory) 
         {
-            /*cusomer проверить баланс, в противном случае выдать ошибку BalanceLowException*/
-
-            ProductsItems.Add(product);
+            return this.Any(x => x.Category == catagory);
         }
 
         public Product FindProduct(int Id) 
         {
-            return ProductsItems.FirstOrDefault(x => x.Id == Id);
+            return this.FirstOrDefault(x => x.Id == Id);
         }
 
-        protected int StoreCount;
+
     }
 }

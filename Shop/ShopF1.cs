@@ -8,6 +8,8 @@ namespace Exam.Shop
     public class ShopF1 : Shop
     {
         private ProductStore ProductStore;
+        //private CustomerOrder CustomerOrder;
+        //private CustomerManager CustomerManager;
 
         public event ProductStoreLowEventHandler ProductLow 
         {
@@ -17,8 +19,12 @@ namespace Exam.Shop
 
         public ShopF1() : base(1, "F1")
         {
-            ProductStore = new ProductStore();            
+            ProductStore = new ProductStore();
+            //CustomerOrder = new CustomerOrder();
+            //CustomerManager = new CustomerManager();
         }
+
+
 
         #region Product
         public void AddProduct(ProductGadget product)
@@ -59,10 +65,17 @@ namespace Exam.Shop
 
                 Console.WriteLine($"Gadget: {item} is changed");
             }
-
-        
         }
         #endregion
+
+
+        public void AddOrder(Product product/*, Cusomer cusomer*/)
+        {
+            /*cusomer проверить баланс, в противном случае выдать ошибку BalanceLowException*/
+
+            // OrderCusomer.Add()
+            //ProductsItems.Add(product);
+        }
 
         public void AddOrder(ProductGadget product/*, Cusomer cusomer*/)
         {
@@ -70,7 +83,8 @@ namespace Exam.Shop
             {
                 // выдача исключения BalanceLowException
                 // throw new BalanceLowException("Не хватает средств для покупки");
-                ProductStore.AddOrder(product);
+
+                //ProductStore.AddOrder(product /*, cusomer*/);
             }
             catch (BalanceLowException ex)
             {
@@ -85,7 +99,7 @@ namespace Exam.Shop
 
         public void ShowProduct() 
         {
-            foreach (var item in ProductStore.ProductsItems)
+            foreach (var item in ProductStore)
             {
                 if (item is ProductComputer)
                 {

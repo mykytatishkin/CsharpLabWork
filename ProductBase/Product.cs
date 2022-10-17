@@ -7,6 +7,10 @@ namespace Exam.Shop.ProductBase
         public int Id { get; set; }
         public string Name { get; set; }
 
+        public decimal Amount { get; set; }
+
+        public string Category { get; set; }
+
         public DateTime Create { get; set; }
         public DateTime Change { get; set; }
     }
