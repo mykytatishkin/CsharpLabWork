@@ -1,0 +1,16 @@
+D:\Step\5 C#\Lesson 4\Exam\bin\Debug\Exam.exe.config
+D:\Step\5 C#\Lesson 4\Exam\bin\Debug\Exam.exe
+D:\Step\5 C#\Lesson 4\Exam\bin\Debug\Exam.pdb
+D:\Step\5 C#\Lesson 4\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+D:\Step\5 C#\Lesson 4\Exam\obj\Debug\Exam.csproj.SuggestedBindingRedirects.cache
+D:\Step\5 C#\Lesson 4\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+D:\Step\5 C#\Lesson 4\Exam\obj\Debug\Exam.exe
+D:\Step\5 C#\Lesson 4\Exam\obj\Debug\Exam.pdb
+D:\Step\5 C#\Exam\bin\Debug\Exam.exe.config
+D:\Step\5 C#\Exam\bin\Debug\Exam.exe
+D:\Step\5 C#\Exam\bin\Debug\Exam.pdb
+D:\Step\5 C#\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+D:\Step\5 C#\Exam\obj\Debug\Exam.csproj.SuggestedBindingRedirects.cache
+D:\Step\5 C#\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+D:\Step\5 C#\Exam\obj\Debug\Exam.exe
+D:\Step\5 C#\Exam\obj\Debug\Exam.pdb
