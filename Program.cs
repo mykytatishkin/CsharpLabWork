@@ -18,31 +18,31 @@ namespace Exam
             Создать интернет-магазин, который имеет следующую структуру
 
             Интерфейсы: 
-            - добавить товар (IAddProduct<T>)
-            - изменить товар (IEditProduct<T>)
-            - удалить товар (IDeleteProduct<T>)
-            - найти товар (IFindProduct<T>)
-            - показать все товары (IShowProduct<T>)
-            - купить товар (IBuyProduct<T>)
+            + добавить товар (IAddProduct<T>)
+            + изменить товар (IEditProduct<T>)
+            + удалить товар (IDeleteProduct<T>)
+            + найти товар (IFindProduct<T>)
+            + показать все товары (IShowProduct<T>)
+            + купить товар (IBuyProduct<T>)
 
             [Product]
             Базовый класс товар (Product)
-            - ИД: Id (int)
-            - Название: Name (string) 
-            - Описание: Desc (string) 
-            - Цена: Price (decimal)
-            - Дата создания: Create (datetime)
-            - Дата изменения: Change (datetime)
+            + ИД: Id (int)
+            + Название: Name (string) 
+            + Описание: Desc (string) 
+            + Цена: Price (decimal)
+            + Дата создания: Create (datetime)
+            + Дата изменения: Change (datetime)
 
             Конкретный класс товар-компьютеры (ProductComputer)
-            - Материнской плата
-            - Тип и название CPU (string) 
-            - Тип и название DDR (string) 
-            - Тип и название SSD (string) 
+            + Материнской плата
+            + Тип и название CPU (string) 
+            + Тип и название DDR (string) 
+            + Тип и название SSD (string) 
 
             Конкретный класс товар-гаджеты (ProductGadget)
-            - смартфон
-            - планшет
+            + смартфон
+            + планшет
 
             Базовый класс-список склада товаров для компьтеров (ProductStore)
           
