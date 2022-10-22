@@ -36,7 +36,7 @@ namespace WindowsFormsDiary
                     {
                         Items.Add(item);
                     }
-                }
+                } 
             }
         }
 
