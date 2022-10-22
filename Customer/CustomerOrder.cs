@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exam.Interface
+namespace Exam.Customer
 {
-    public interface IBuyProduct<T>
+    internal class CustomerOrder
     {
-        void BuyProduct(T product);
     }
 }

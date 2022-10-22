@@ -8,6 +8,6 @@ namespace Exam.Interface
 {
     public interface IEditProduct<T>
     {
-        void EditProduct(T product);
+        void EditProduct(T product, int ID, string Name, decimal Amount, string Category, DateTime Created);
     }
 }

@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Exam.Interface
 {
-    public interface IShowProduct
+    public interface IShowProduct<T>
     {
-        void ShowProduct(string productID);
+        void ShowProduct(T product, int productID);
     }
 }
