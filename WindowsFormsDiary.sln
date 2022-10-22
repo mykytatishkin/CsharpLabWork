@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsDiary", "WindowsFormsDiary.csproj", "{57452BF7-3C2B-42F9-99D0-7084164FDFCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57452BF7-3C2B-42F9-99D0-7084164FDFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57452BF7-3C2B-42F9-99D0-7084164FDFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57452BF7-3C2B-42F9-99D0-7084164FDFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57452BF7-3C2B-42F9-99D0-7084164FDFCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E8B9D67-7C0B-4B0C-A373-2A3BD4A4659F}
+	EndGlobalSection
+EndGlobal
