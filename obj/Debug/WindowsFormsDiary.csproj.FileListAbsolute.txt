@@ -13,3 +13,18 @@ D:\Step\8 Win Forms\Lesson 2\WindowsFormsDiary\WindowsFormsDiary\obj\Debug\Windo
 D:\Step\8 Win Forms\Lesson 2\WindowsFormsDiary\WindowsFormsDiary\bin\Debug\Newtonsoft.Json.dll
 D:\Step\8 Win Forms\Lesson 2\WindowsFormsDiary\WindowsFormsDiary\bin\Debug\Newtonsoft.Json.xml
 D:\Step\8 Win Forms\Lesson 2\WindowsFormsDiary\WindowsFormsDiary\obj\Debug\WindowsFormsDiary.csproj.CopyComplete
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\bin\Debug\WindowsFormsDiary.exe.config
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\bin\Debug\WindowsFormsDiary.exe
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\bin\Debug\WindowsFormsDiary.pdb
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.csproj.AssemblyReference.cache
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.FrmEditor.resources
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.FrmMain.resources
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.Properties.Resources.resources
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.csproj.GenerateResource.cache
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.csproj.CoreCompileInputs.cache
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.csproj.CopyComplete
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.exe
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.pdb
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.FormTask.resources

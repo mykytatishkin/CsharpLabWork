@@ -24,6 +24,7 @@ namespace WindowsFormsDiary.Model
         }
 
         public DateTime Created { get; set; }
+        public DateTime ToDo { get; set; }
 
         public string FullName 
         {
