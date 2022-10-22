@@ -1,0 +1,35 @@
+D:\Step\8 Win Forms\Lesson 2\WindowsFormsDiary\WindowsFormsDiary\bin\Debug\WindowsFormsDiary.exe.config
+D:\Step\8 Win Forms\Lesson 2\WindowsFormsDiary\WindowsFormsDiary\bin\Debug\WindowsFormsDiary.exe
+D:\Step\8 Win Forms\Lesson 2\WindowsFormsDiary\WindowsFormsDiary\bin\Debug\WindowsFormsDiary.pdb
+D:\Step\8 Win Forms\Lesson 2\WindowsFormsDiary\WindowsFormsDiary\obj\Debug\WindowsFormsDiary.csproj.AssemblyReference.cache
+D:\Step\8 Win Forms\Lesson 2\WindowsFormsDiary\WindowsFormsDiary\obj\Debug\WindowsFormsDiary.csproj.SuggestedBindingRedirects.cache
+D:\Step\8 Win Forms\Lesson 2\WindowsFormsDiary\WindowsFormsDiary\obj\Debug\WindowsFormsDiary.Properties.Resources.resources
+D:\Step\8 Win Forms\Lesson 2\WindowsFormsDiary\WindowsFormsDiary\obj\Debug\WindowsFormsDiary.csproj.GenerateResource.cache
+D:\Step\8 Win Forms\Lesson 2\WindowsFormsDiary\WindowsFormsDiary\obj\Debug\WindowsFormsDiary.csproj.CoreCompileInputs.cache
+D:\Step\8 Win Forms\Lesson 2\WindowsFormsDiary\WindowsFormsDiary\obj\Debug\WindowsFormsDiary.exe
+D:\Step\8 Win Forms\Lesson 2\WindowsFormsDiary\WindowsFormsDiary\obj\Debug\WindowsFormsDiary.pdb
+D:\Step\8 Win Forms\Lesson 2\WindowsFormsDiary\WindowsFormsDiary\obj\Debug\WindowsFormsDiary.FrmMain.resources
+D:\Step\8 Win Forms\Lesson 2\WindowsFormsDiary\WindowsFormsDiary\obj\Debug\WindowsFormsDiary.FrmEditor.resources
+D:\Step\8 Win Forms\Lesson 2\WindowsFormsDiary\WindowsFormsDiary\bin\Debug\Newtonsoft.Json.dll
+D:\Step\8 Win Forms\Lesson 2\WindowsFormsDiary\WindowsFormsDiary\bin\Debug\Newtonsoft.Json.xml
+D:\Step\8 Win Forms\Lesson 2\WindowsFormsDiary\WindowsFormsDiary\obj\Debug\WindowsFormsDiary.csproj.CopyComplete
+<<<<<<< HEAD
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\bin\Debug\WindowsFormsDiary.exe.config
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\bin\Debug\WindowsFormsDiary.exe
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\bin\Debug\WindowsFormsDiary.pdb
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.csproj.AssemblyReference.cache
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.FrmEditor.resources
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.FrmMain.resources
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.Properties.Resources.resources
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.csproj.GenerateResource.cache
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.csproj.CoreCompileInputs.cache
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.csproj.CopyComplete
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.exe
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.pdb
+<<<<<<< Updated upstream
+C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.FormTask.resources
+=======
+>>>>>>> Stashed changes
+>>>>>>> parent of a5e6b54 (crashes on 3rd form)
