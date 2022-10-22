@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Customer\CustomerManager.cs" />
+    <Compile Include="Customer\CustomerOrder.cs" />
+    <Compile Include="Customer\Customers.cs" />
+    <Compile Include="Customer\CustomersF1.cs" />
+    <Compile Include="Customer\Order.cs" />
     <Compile Include="ExceptionBase\BalanceLowException.cs" />
     <Compile Include="Interface\IAddProduct.cs" />
     <Compile Include="Interface\IBuyProduct.cs" />
@@ -51,8 +56,6 @@
     <Compile Include="Interface\IFindProduct.cs" />
     <Compile Include="Interface\IShowProduct.cs" />
     <Compile Include="ProductBase\Product.cs" />
-    <Compile Include="ProductGadgets\ProductSmartphone.cs" />
-    <Compile Include="ProductGadgets\ProductTablet.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ProductGadgets\ProductGadget.cs" />

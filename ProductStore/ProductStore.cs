@@ -1,4 +1,6 @@
-﻿using Exam.Interface;
+﻿using Exam.Customer;
+using Exam.ExceptionBase;
+using Exam.Interface;
 using Exam.Shop.Interface;
 using System;
 using System.Collections.Generic;
@@ -7,8 +9,7 @@ using System.Linq;
 namespace Exam.Shop.ProductBase
 {
     public delegate void ProductStoreLowEventHandler(string Name);
-    public class ProductStore : List<Product>, IAddProduct<Product>,
-        IBuyProduct<Product>, IDeleteProduct<Product>,
+    public class ProductStore : List<Product>, IAddProduct<Product>, IDeleteProduct<Product>,
         IEditProduct<Product>, IShowProduct<Product>
     {
         //public List<Product> ProductsItems;
@@ -19,24 +20,33 @@ namespace Exam.Shop.ProductBase
         public void ProductStoreLowEvent(string Name)
         {
             if (ProductStoreLow != null)
-            {
-                ProductStoreLow.Invoke(Name); // вызываем метод Invoke на событии
-            }
+                ProductStoreLow.Invoke(Name);
         }
+
+        Customers customers = new Customers();
 
         public void AddProduct(Product product) 
         {
             this.Add(product);
         }
-
-        public void BuyProduct(Product product)
+        BalanceLowException ble = new BalanceLowException();
+        public void BuyProduct(Order order, Product product)
         {
-            
+            if (customers.Balance >= order.OrderSum)
+            {
+                customers.Balance -= order.OrderSum;
+                product.Amount--;
+            }
+            else
+                ble.BalanceLowExceptions();
         }
 
         public void DeleteProduct(Product product)
         {
-
+            if (product.Amount > 3)
+                product.Amount--;
+            else
+                Console.WriteLine("Not enough items");
         }
 
         public void EditProduct(Product product, int ID, string Name, decimal Amount, string Category, DateTime Created)

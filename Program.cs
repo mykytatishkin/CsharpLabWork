@@ -49,38 +49,38 @@ namespace Exam
 
             [Customer]
             Базовый класс клиент (Customer)
-            - ИД: Id (int)
-            - Имя: FName (string) 
-            - Фамилия: LName (string) 
-            - Телефон: Phone (string)
-            - Баланс: Balance (decimal)
-            - Дата создания: Create (datetime)
-            - Дата изменения: Change (datetime)
+            + ИД: Id (int)
+            + Имя: FName (string) 
+            + Фамилия: LName (string) 
+            + Телефон: Phone (string)
+            + Баланс: Balance (decimal)
+            + Дата создания: Create (datetime)
+            + Дата изменения: Change (datetime)
 
             Конкретный класс клиент (CustomerF1)
             Базовый класс клиент-менеджер (CustomerManagerF1)
 
             [Order]
             Конкретный класс заказ (Order)
-            - ИД: Id (int)
-            - Товар: Product (Product) 
-            - Клиент: Customer (Customer) 
-            - Сумма заказа: OrderSum (decimal)
-            - Дата создания: Create (datetime)
+            + ИД: Id (int)
+            + Товар: Product (Product) 
+            + Клиент: Customer (Customer) 
+            + Сумма заказа: OrderSum (decimal)
+            + Дата создания: Create (datetime)
 
             [CustomerOrder]
             Базовый класс корзины клиента
     
             [Shop]
             Базовый класс магазин (Shop)
-            - ИД: Id (int)
-            - Название: Name (string) 
-            - Описание: Desc (string) 
+            + ИД: Id (int)
+            + Название: Name (string) 
+            + Описание: Desc (string) 
 
             Конкретный класс магазин-F1 (ShopF1)
-            - Список товаров (ProductStore) 
-            - Список заказов (CustomerOrder)
-            - Список клиентов (CustomerManager)
+            + Список товаров (ProductStore) 
+            + Список заказов (CustomerOrder)
+            + Список клиентов (CustomerManager)
 
             Задачи
             1. Реализуйте все интерфейсы в классах ProductStore, CustomerManager, CustomerOrder

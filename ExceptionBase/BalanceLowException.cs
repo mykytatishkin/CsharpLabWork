@@ -8,14 +8,9 @@ namespace Exam.ExceptionBase
 {
     public class BalanceLowException : Exception
     {
-        public BalanceLowException() : base()
+        public void BalanceLowExceptions()
         {
-
-        }
-
-        public BalanceLowException(string message) : base(message)
-        {
-
+            Console.WriteLine("Not enough money");
         }
     }
 }

@@ -1,4 +1,5 @@
-﻿using Exam.ExceptionBase;
+﻿using Exam.Customer;
+using Exam.ExceptionBase;
 using Exam.Shop.ProductBase;
 using System;
 using System.Linq;
@@ -8,8 +9,8 @@ namespace Exam.Shop
     public class ShopF1 : Shop
     {
         private ProductStore ProductStore;
-        //private CustomerOrder CustomerOrder;
-        //private CustomerManager CustomerManager;
+        private CustomerOrder CustomerOrder;
+        private CustomerManager CustomerManager;
 
         public event ProductStoreLowEventHandler ProductLow 
         {
