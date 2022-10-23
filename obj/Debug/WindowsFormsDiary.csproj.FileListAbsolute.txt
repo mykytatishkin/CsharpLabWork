@@ -27,7 +27,4 @@ C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.cspro
 C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.csproj.CopyComplete
 C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.exe
 C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.pdb
-<<<<<<< Updated upstream
 C:\Users\Mykyta\Documents\GitHub\CsharpLabWork\obj\Debug\WindowsFormsDiary.FormTask.resources
-=======
->>>>>>> Stashed changes
