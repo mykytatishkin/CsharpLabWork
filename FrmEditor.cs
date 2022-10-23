@@ -20,6 +20,13 @@ namespace WindowsFormsDiary
         private void btnSave_Click(object sender, EventArgs e)
         {
             this.DiaryName = txtName.Text;
+            using (FormTask ft = new FormTask())
+            {
+                if (ft.ShowDialog() == DialogResult.OK)
+                {
+                    
+                }
+            }
             this.DialogResult = DialogResult.OK;
         }
     }
