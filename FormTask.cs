@@ -27,7 +27,7 @@ namespace WindowsFormsDiary
 
         public void dateTimePicker1_ValueChanged(object sender, EventArgs e)
         {
-            DateTimePicker now = new DateTimePicker();
+            /*DateTimePicker now = new DateTimePicker();
             now.Value = DateTime.Now;
             
             
@@ -35,7 +35,6 @@ namespace WindowsFormsDiary
             dt.Value = DateTime.Today;
 
             dtCreated = dateTimePicker1.Value;
-            string theDate = dtCreated.ToString("yyyy-MM-dd");
 
             while (now.Value.ToString("yyyy-MM-dd") != theDate)
             {
@@ -44,13 +43,14 @@ namespace WindowsFormsDiary
                 {
 
                 }
-            }
+            }*/
 
         }
 
         public void SaveDateToDo_Click(object sender, EventArgs e)
         {
             this.DialogResult = DialogResult.OK;
+            this.dtCreated = dateTimePicker1.Value;
         }
     }
 }

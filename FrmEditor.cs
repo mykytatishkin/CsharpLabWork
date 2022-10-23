@@ -24,7 +24,7 @@ namespace WindowsFormsDiary
             {
                 if (ft.ShowDialog() == DialogResult.OK)
                 {
-
+                    
                 }
             }
             this.DialogResult = DialogResult.OK;
