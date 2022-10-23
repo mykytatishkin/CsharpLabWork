@@ -49,6 +49,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FormTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTask.Designer.cs">
+      <DependentUpon>FormTask.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmEditor.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,6 +70,9 @@
     <Compile Include="Model\DiaryItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormTask.resx">
+      <DependentUpon>FormTask.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmEditor.resx">
       <DependentUpon>FrmEditor.cs</DependentUpon>
     </EmbeddedResource>

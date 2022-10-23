@@ -61,7 +61,10 @@ namespace WindowsFormsDiary
             {
                 if (frm.ShowDialog(this) == DialogResult.OK) 
                 {
-                    Items.Add(new DiaryItem() { Id = Items.Count + 1, Name = frm.DiaryName, Created = DateTime.Now });
+                    using (FormTask ft = new FormTask())
+                    {
+                        Items.Add(new DiaryItem() { Id = Items.Count + 1, Name = frm.DiaryName, Created = DateTime.Now, ToDo = ft.dtCreated });
+                    }
                 }
             }                
         }
